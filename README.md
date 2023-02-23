@@ -1,9 +1,9 @@
 # Sales-Analysis
 ## Created by Trung Bui
 
-Hi, thank you for taking a look at my project! This repository contains a case study on sales analysis that aims to provide a comprehensive analysis of sales data from a fictional Electronics Company to derive insights that can help this company make informed decisions. 
+Hi, thank you for taking a look at my project! This repository contains a case study on sales analysis that aims to provide a comprehensive analysis of sales data from hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.
 
-The case study involves a hypothetical scenario where a company wants to analyze its sales data to identify areas of improvement and make data-driven decisions to increase revenue. This process include cleaning the 12 months of sales data, then transform them by adding more columns and lastly, answer the 5 business questions.
+The case study involves a hypothetical scenario where we wants to analyze the sales data to identify areas of improvement and make data-driven decisions to increase revenue. This process include cleaning the 12 months of sales data, then transform them by adding more columns and lastly, answer the 5 business questions.
 
 The repository contains the following files:
 
